@@ -80,7 +80,12 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+
+# Adding config.py file
 config.py
+# Adding additonal files
+API_pracitce.ipynb
+random_number.ipynb
 
 # pyenv
 .python-version
