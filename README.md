@@ -3,9 +3,9 @@
 ## Overview of Project:
 Collect and analyze weather data across cities worldwide.
 ### Purpose:
-The website “PlanMyTrip” will use the weather data collected from over 500 cities to recommend ideal hotels based on clients’ weather preferences. 
+The website *PlanMyTrip* will use the weather data collected from over 500 cities to recommend ideal hotels based on clients’ weather preferences. 
 ## Results:
-1.	Using Jupyter Notebook and pulling API URLs’ from “openweathermaps” and “googlemaps” (see images below) we were able to generate a DataFrame. 
+1.	Using Jupyter Notebook and pulling API URLs’ from *openweathermaps* and *googlemaps* (see images below) we were able to generate a DataFrame. 
 ![](https://github.com/Apollo619/World_Weather_Analysis/blob/main/Resources/openweathermap_code.PNG)
 ![](https://github.com/Apollo619/World_Weather_Analysis/blob/main/Resources/googlelocation_url.PNG)
 2.	This DataFrame contained basic information such as “City Name”, “Country”, “Latitude”, “Longitude”, “Max Temp.”, “Wind Speed”, and a multitude of other categories. (see below image)
